@@ -1,3 +1,3 @@
 <?php 
-    define('ROOT_URL','http://localhost/php_sandbox/website8');
+    define('ROOT_URL','http://localhost/php_sandbox/website8/');
 ?>
